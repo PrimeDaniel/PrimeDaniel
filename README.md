@@ -17,8 +17,7 @@ Problem Solving: Adept at breaking down complex problems and finding efficient s
 Team Player: Enjoy collaborating with multidisciplinary teams to achieve common goals
 
 🌟 Projects
-Project Name: A brief description of the project and your role.
-Project Name: A brief description of the project and your role.
+Project Name: CEMS
 
 📚 Education
 B.Sc. in Software Engineering — Braude College of Engineering — Graduating in [2025]
