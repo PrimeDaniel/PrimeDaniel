@@ -10,14 +10,11 @@ As I near the completion of my studies, I am actively seeking opportunities to k
 I am eager to apply my knowledge and skills in real-world scenarios and to collaborate with professionals who share the same passion for creating impactful solutions.
 
 🔧 Skills
-Programming Languages: Proficient in Java, Python, C and C++
+Programming Languages: Proficient in Python,Java, C and C++
 Web Development: Familiar with HTML, CSS, SQL and JavaScript
 Version Control: Experienced with Git and GitHub
 Problem Solving: Adept at breaking down complex problems and finding efficient solutions
 Team Player: Enjoy collaborating with multidisciplinary teams to achieve common goals
-
-🌟 Projects
-Project Name: CEMS
 
 📚 Education
 B.Sc. in Software Engineering — Braude College of Engineering — Graduating in [2025]
