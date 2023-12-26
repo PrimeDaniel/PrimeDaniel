@@ -7,7 +7,9 @@ and I'm enthusiastic about contributing to innovative projects and learning from
 ---
 
 ### Languages and Tools
-<img align="left" alt="Java" width="30px" <img align="left" alt="Java" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/python-programming-language-icon.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/sql-file-icon.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -15,8 +17,9 @@ and I'm enthusiastic about contributing to innovative projects and learning from
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
+/*<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> */
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -24,12 +27,13 @@ and I'm enthusiastic about contributing to innovative projects and learning from
 
 #
 
+
 💼 Seeking Opportunities
 As I near the completion of my studies, I am actively seeking opportunities to kickstart my career in software engineering.
 I am eager to apply my knowledge and skills in real-world scenarios and to collaborate with professionals who share the same passion for creating impactful solutions.
 
 🔧 Skills
-Programming Languages: Proficient in Python,Java, C and C++
+Programming Languages: Proficient in Python, Java, C and C++
 Web Development: Familiar with HTML, CSS, SQL and JavaScript
 Version Control: Experienced with Git and GitHub
 Problem Solving: Adept at breaking down complex problems and finding efficient solutions
