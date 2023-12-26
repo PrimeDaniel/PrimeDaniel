@@ -1,9 +1,7 @@
 👋 Hello, I'm @PrimeDaniel (Fraimovich Daniel)
 
-🎓 About Me
-I am a passionate and motivated student pursuing a degree in Software Engineering.
-My journey in the world of technology has been an exciting one,
-and I'm enthusiastic about contributing to innovative projects and learning from the tech community.
+<img src="https://ibb.co/WcmdC4T" />
+
 ---
 
 ### Languages and Tools
@@ -23,13 +21,18 @@ and I'm enthusiastic about contributing to innovative projects and learning from
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
 <img align="left" align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img <br />
-
 #
+
+🎓 About Me
+I am a passionate and motivated student pursuing a degree in Software Engineering.
+My journey in the world of technology has been an exciting one,
+and I'm enthusiastic about contributing to innovative projects and learning from the tech community.
 
 
 💼 Seeking Opportunities
 As I near the completion of my studies, I am actively seeking opportunities to kickstart my career in software engineering.
 I am eager to apply my knowledge and skills in real-world scenarios and to collaborate with professionals who share the same passion for creating impactful solutions.
+
 
 🔧 Skills
 Programming Languages: Proficient in Python, Java, C and C++
