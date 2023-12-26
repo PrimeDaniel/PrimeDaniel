@@ -26,7 +26,6 @@
 ---
 
 🎓 About Me
-
 I am a passionate and motivated student pursuing a degree in Software Engineering.
 My journey in the world of technology has been an exciting one,
 and I'm enthusiastic about contributing to innovative projects and learning from the tech community.
