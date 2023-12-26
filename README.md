@@ -1,4 +1,4 @@
-👋 Hello, I'm @PrimeDaniel (Fraimovich Daniel)
+<h1 align="center">👋 Hello, I'm @PrimeDaniel (Fraimovich Daniel) </a></h1>
 
 <img src="https://i.ibb.co/hK3n0Jq/bacground-linkdin.jpg" />
 
