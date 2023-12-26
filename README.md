@@ -1,6 +1,6 @@
 👋 Hello, I'm @PrimeDaniel (Fraimovich Daniel)
 
-<img src="https://ibb.co/WcmdC4T" />
+<img src="[https://ibb.co/WcmdC4T](https://i.ibb.co/hK3n0Jq/bacground-linkdin.jpg)" />
 
 ---
 
