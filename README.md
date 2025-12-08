@@ -56,11 +56,6 @@ I use a variety of languages and tools to build my projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrimeDaniel&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
-### 🏆 Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrimeDaniel&theme=flat&no-frame=true&margin-w=15" />
-</div>
----
 
 ### 🎓 Education
 
