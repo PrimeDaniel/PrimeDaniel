@@ -52,8 +52,11 @@ I use a variety of languages and tools to build my projects.
 ### 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrimeDaniel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="PrimeDaniel's Github Stats" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrimeDaniel&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
+  
+  <img src="https://streak-stats.demolab.com?user=PrimeDaniel&theme=tokyonight&hide_border=true&background=0d1117" alt="PrimeDaniel's Streak" />
 </div>
 
 
