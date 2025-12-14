@@ -52,7 +52,17 @@ I use a variety of languages and tools to build my projects.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrimeDaniel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=PrimeDaniel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=PrimeDaniel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
+  <img src="https://streak-stats.demolab.com?user=PrimeDaniel&theme=tokyonight&hide_border=true&background=0d1117" height="160" />
+  
+  <br/><br/>
+
+  <img src="https://skillicons.dev/icons?i=python,flutter,gcp,git,linux,docker,vscode,idea&theme=dark" />
+
 </div>
 
 
