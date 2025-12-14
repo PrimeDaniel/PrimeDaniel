@@ -71,4 +71,7 @@ I use a variety of languages and tools to build my projects.
 
 <div align="center">
   <sub>Let's collaborate, innovate, and make an impact together!</sub>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/PrimeDaniel/PrimeDaniel/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 </div>
