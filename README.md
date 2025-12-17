@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.ibb.co/hK3n0Jq/bacground-linkdin.jpg" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"/>
+  <img src="[https://i.ibb.co/hK3n0Jq/bacground-linkdin.jpg](https://media.licdn.com/dms/image/v2/D4D16AQEOlAxTIJrSIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721646732857?e=1767830400&v=beta&t=j_7uFCLuHamD9YnSD90fPIV6MxYDpLWiRyaXr79sGE0)" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"/>
 </div>
 
 <br/>
