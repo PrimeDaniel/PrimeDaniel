@@ -55,7 +55,7 @@ I use a variety of languages and tools to build my projects.
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=PrimeDaniel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
