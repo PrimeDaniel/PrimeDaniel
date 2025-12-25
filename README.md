@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEOlAxTIJrSIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721646732857?e=1767830400&v=beta&t=j_7uFCLuHamD9YnSD90fPIV6MxYDpLWiRyaXr79sGE0" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"/>
+  <img src="[https://media.licdn.com/dms/image/v2/D4D16AQEOlAxTIJrSIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1721646732857?e=1767830400&v=beta&t=j_7uFCLuHamD9YnSD90fPIV6MxYDpLWiRyaXr79sGE0](https://media.licdn.com/dms/image/v2/D4E16AQH9TjxklYPBKA/profile-displaybackgroundimage-shrink_350_1400/B4EZtB1chJKMAY-/0/1766336089393?e=1768435200&v=beta&t=hUxmWx8pNaMc0r6_RGG_V0lk68K_aNzXda8G2jyI44Q)" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"/>
 </div>
 
 <br/>
