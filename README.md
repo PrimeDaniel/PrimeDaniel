@@ -61,11 +61,7 @@ I use a variety of languages and tools to build my projects.
   <img src="https://github-readme-stats.vercel.app/api?username=PrimeDaniel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" />
 
 
-### 🎓 Education
 
-<img src="https://img.shields.io/badge/B.Sc._Software_Engineering-Braude_College-blue?style=for-the-badge&logo=bookstack" />
-<br>
-<i>Graduating in 2025</i>
 
 ---
 
