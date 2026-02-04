@@ -5,9 +5,6 @@
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E16AQH9TjxklYPBKA/profile-displaybackgroundimage-shrink_350_1400/B4EZtB1chJKMAY-/0/1766336089393?e=1770249600&v=beta&t=3JLbSLQnozRzaBLAb9SFPpTnRcCasZl-216bPU61GRY" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"/>
 </div>
-<div align="center">
-  <sub>Let's collaborate, innovate, and make an impact together!</sub>
-  <div align="center">
     <img src="https://raw.githubusercontent.com/PrimeDaniel/PrimeDaniel/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </div>
 </div>
@@ -32,13 +29,14 @@
 
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
 
-I am a **Software Engineering Graduate** from **Braude College of Engineering**, currently working as a **DevOps Software Engineer** at **Intel Corporation**. 
+am a **Software Engineer**
+currently working as a **Validation** & **DevOps Software Engineer** at **Intel Corporation**.
 
-I am passionate about building scalable infrastructure, automating complex workflows, and developing efficient software solutions. My background covers the full stack, but I specialize in DevOps practices, cloud technologies, and Python development.
+My core passion lies in application development and problem-solving. While I have professional experience in infrastructure and automation, I am looking to leverage my capabilities to build impactful software.
 
-- 🔭 **Currently Working:** DevOps Software Engineer at Intel.
-- 🔧 **Interest Areas:** DevOps, Cloud Infrastructure (GCP), Python, and Flutter Development.
-- 🤝 **Collaboration:** Open to discussing open-source projects and tech innovations.
+- 🔭 **Current Role:** Software Engineer at Intel (Automation & Validation).
+- 💻 **Core Focus:** Python, Full Stack Development, and Scalable Architecture.
+- 🚀 **Goal:** Seeking Software Engineering and Fullstack roles
 
 ---
 
@@ -74,6 +72,5 @@ I utilize a diverse set of tools for development, automation, and infrastructure
 <div align="center">
   <sub>Let's collaborate, innovate, and make an impact together!</sub>
   <div align="center">
-  <img src="https://raw.githubusercontent.com/PrimeDaniel/PrimeDaniel/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
-</div>
+
