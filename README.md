@@ -3,7 +3,6 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQH9TjxklYPBKA/profile-displaybackgroundimage-shrink_350_1400/B4EZtB1chJKMAY-/0/1766336089393?e=1770249600&v=beta&t=3JLbSLQnozRzaBLAb9SFPpTnRcCasZl-216bPU61GRY" width="100%" style="border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.3);"/>
 </div>
     <img src="https://raw.githubusercontent.com/PrimeDaniel/PrimeDaniel/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </div>
@@ -27,7 +26,7 @@
 
 ### 🧐 About Me
 
-<img src="https://ibb.co/RVj6SQj">
+<img src="https://i.ibb.co/451Sf41/1766336089393.jpg">
 
 
 
