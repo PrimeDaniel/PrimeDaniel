@@ -4,6 +4,7 @@
 
 <div align="center">
 </div>
+    <img src="https://i.ibb.co/451Sf41/1766336089393.jpg">
     <img src="https://raw.githubusercontent.com/PrimeDaniel/PrimeDaniel/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </div>
 </div>
@@ -26,13 +27,12 @@
 
 ### 🧐 About Me
 
-<img src="https://i.ibb.co/451Sf41/1766336089393.jpg">
 
 
 
 
 
-am a **Software Engineer**
+I am a **Software Engineer**
 currently working as a **Validation** & **DevOps Software Engineer** at **Intel Corporation**.
 
 My core passion lies in application development and problem-solving. While I have professional experience in infrastructure and automation, I am looking to leverage my capabilities to build impactful software.
