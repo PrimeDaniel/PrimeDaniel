@@ -27,7 +27,8 @@
 
 ### 🧐 About Me
 
-![1766336089393](https://github.com/user-attachments/assets/ea02d9c8-1125-4665-83fb-9f4b66264bec)
+https://github.com/user-attachments/assets/c78baba7-a4d2-47ab-92c5-295059779109
+
 
 
 am a **Software Engineer**
