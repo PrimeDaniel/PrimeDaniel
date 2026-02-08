@@ -27,7 +27,7 @@
 
 ### 🧐 About Me
 
-![my image](https://github.com/user-attachments/assets/c78baba7-a4d2-47ab-92c5-295059779109)
+<img src="https://ibb.co/RVj6SQj">
 
 
 
