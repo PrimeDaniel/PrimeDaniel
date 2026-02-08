@@ -27,7 +27,8 @@
 
 ### 🧐 About Me
 
-<img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="160">
+![1766336089393](https://github.com/user-attachments/assets/ea02d9c8-1125-4665-83fb-9f4b66264bec)
+
 
 am a **Software Engineer**
 currently working as a **Validation** & **DevOps Software Engineer** at **Intel Corporation**.
